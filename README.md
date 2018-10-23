@@ -1,2 +1,5 @@
 # hello-world
-Hello World
+Hello World!
+
+My name's Rahul Fernandes, I'm exploring Java programming.
+
